@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pathan-irfan/paino/static/css/main.1bef9fb7.css",
-    "main.js": "/pathan-irfan/paino/static/js/main.025a796a.js",
-    "index.html": "/pathan-irfan/paino/index.html",
-    "main.1bef9fb7.css.map": "/pathan-irfan/paino/static/css/main.1bef9fb7.css.map",
-    "main.025a796a.js.map": "/pathan-irfan/paino/static/js/main.025a796a.js.map"
+    "main.css": "/static/css/main.1bef9fb7.css",
+    "main.js": "/static/js/main.025a796a.js",
+    "index.html": "/index.html",
+    "main.1bef9fb7.css.map": "/static/css/main.1bef9fb7.css.map",
+    "main.025a796a.js.map": "/static/js/main.025a796a.js.map"
   },
   "entrypoints": [
     "static/css/main.1bef9fb7.css",
