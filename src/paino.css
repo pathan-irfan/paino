@@ -1,0 +1,42 @@
+
+.btn1{
+
+    margin-left: 12px;
+    position: absolute;
+     z-index: 1;
+    height:130px;
+    width:35px;
+    background-color:rgb(14, 13, 13);
+   border: 1px solid rgb(11, 11, 11);
+    /* box-shadow: 2px 2px 2px  rgb(14, 0, 0); */
+    box-shadow: 0 0 4px 4px rgb(132, 133, 132);
+
+}
+.bkbtn{
+    margin-left: 4px;
+    padding: 1px;
+   position: relative;
+    height:190px;
+    /* box-shadow: 2px 2px 2px rgb(182, 174, 174); */
+    box-shadow: 0 0 4px 4px rgb(150, 151, 150);
+    width:60px;
+    background-color:rgb(255, 255, 255);
+
+    
+}
+.bkbtn:hover{
+    background-color:rgba(191, 185, 185, 0.524);
+
+}
+
+.bkdiv{
+    display: flex;
+    border-radius: 19px;
+    height:100px;
+    width:518px;
+    background-color:black;
+    box-shadow: 0 0 6px 6px black;
+}
+.sound{
+height: "100px";
+}
